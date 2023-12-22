@@ -1,0 +1,154 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+} 
+body{
+    
+    font-family: 'Young Serif', serif;
+    margin: 20px;
+}
+
+.bio_data{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+    
+}
+.heading{
+    font-size: 60px;
+}
+.para{
+    font-size: 30px;
+}
+.contact_button{
+    border: none;
+    background-color: rgb(245, 96, 42);
+    color: white;
+    height: 25px;
+    width: 60px;
+    margin-top: 20px;
+   
+}
+.about_header{
+    margin-top: 20px;
+}
+.my_interests{
+    background-color: rgb(32, 32, 238);
+    width: 170px;
+    border-radius:5px ;
+    height: 220px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.unordered_list{
+    list-style-type: none;
+    margin-top: 20px;
+}
+.my_projects{
+    background-color:rgb(253, 97, 0);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+   
+}
+.contact_social{
+    background-color: black;
+    color: white; 
+    padding: 20px;
+    margin-top: 20px;
+}
+.anchor{
+    color: lightskyblue ;
+}
+.at_symbol{
+    margin-top: 20px;
+}
+ 
+/*contactform.html*/
+body{
+    margin: 20px;
+}
+.intro_data{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.intro_heading{
+    color: white;
+    
+    
+}
+.home_button{
+    border: none;
+    background-color: rgb(245, 96, 42);
+    color: white;
+    height: 25px;
+    width: 60px;
+    margin-top: 20px;
+}
+.home_button-submit{
+    color: black;
+}
+form{
+    margin-top: 20px;
+}
+.input_box{
+    border: none;
+    border-bottom: 1px solid gray;
+    
+    
+}
+.input_textarea{
+    border: 1px solid gray;
+    
+}
+.table_one{
+    margin-top: 20px;
+    
+}
+
+.input_box,.input_textarea,.button_submit{
+    margin-top: 10px;
+}
+.button_submit{
+    border: none;
+    background-color: rgb(245, 96, 42);
+    color: white;
+    height: 25px;
+    width: 60px;
+}
+
+.social_media{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.anchor_one{
+    color: lightskyblue;
+
+}
+.at_symbol_two{
+    margin-top: 10px;
+}
+.input_box:focus{
+    height: 30px;
+
+}
+.input_textarea{
+    height: 40px;
+}
+.input_textarea:focus{
+    height: 60px;
+    
+    border: 1px solid;
+}
+tr,td,.input_box,.input_textarea{
+    margin-top: 20px;
+}
